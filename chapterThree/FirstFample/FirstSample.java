@@ -2,7 +2,7 @@ package chapterThree.FirstFample;
 
 
 /**
- * This is the first sample program in Core Java Chapter3
+* This is the first sample program in Core Java Chapter3
 * @version 23.0.1 2025.1.14
 * @author Ashley Chen
  */
